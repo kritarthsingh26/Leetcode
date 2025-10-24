@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3830-find-closest-person](https://github.com/kritarthsingh26/Leetcode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
