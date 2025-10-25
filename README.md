@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/kritarthsingh26/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3830-find-closest-person](https://github.com/kritarthsingh26/Leetcode/tree/master/3830-find-closest-person) |
 ## Sorting
