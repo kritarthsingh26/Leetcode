@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
