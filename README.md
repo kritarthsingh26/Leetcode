@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -82,8 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
