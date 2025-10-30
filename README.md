@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kritarthsingh26/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
