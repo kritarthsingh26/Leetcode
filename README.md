@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/kritarthsingh26/Leetcode/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
