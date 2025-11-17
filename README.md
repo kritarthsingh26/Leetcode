@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kritarthsingh26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
