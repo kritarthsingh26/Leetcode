@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kritarthsingh26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kritarthsingh26/Leetcode/tree/master/0051-n-queens) |
+| [0216-combination-sum-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/0216-combination-sum-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
