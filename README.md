@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kritarthsingh26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/kritarthsingh26/Leetcode/tree/master/1345-jump-game-iv) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kritarthsingh26/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
