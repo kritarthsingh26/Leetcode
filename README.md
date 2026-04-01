@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kritarthsingh26/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0055-jump-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kritarthsingh26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kritarthsingh26/Leetcode/tree/master/0058-length-of-last-word) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
