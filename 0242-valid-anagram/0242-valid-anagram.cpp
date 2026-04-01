@@ -2,14 +2,24 @@ class Solution {
 public:
     bool isAnagram(string s, string t) 
     {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+            if (s.size() != t.size()) return false;
+       
+        int n=s.size();
 
-        if(s==t)
+        vector<int>answer(26,0);
+
+        for(int i=0;i<n;i++)
         {
-            return true;
+            answer[s[i]-'a']++;
+            answer[t[i]-'a']--;
         }
-        else
-            return false;
+        for(int i=0;i<26;i++)
+        {
+            if(answer[i]!=0)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 };
