@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kritarthsingh26/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kritarthsingh26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
 |  |
 | ------- |
