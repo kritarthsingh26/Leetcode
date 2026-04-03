@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/kritarthsingh26/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
