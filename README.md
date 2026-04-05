@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0629-k-inverse-pairs-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
