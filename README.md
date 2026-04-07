@@ -227,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/kritarthsingh26/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/kritarthsingh26/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
