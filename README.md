@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kritarthsingh26/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/kritarthsingh26/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kritarthsingh26/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kritarthsingh26/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kritarthsingh26/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
