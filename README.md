@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Stack
 |  |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
