@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kritarthsingh26/Leetcode/tree/master/0228-summary-ranges) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kritarthsingh26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
+| [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/kritarthsingh26/Leetcode/tree/master/1345-jump-game-iv) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1345-jump-game-iv](https://github.com/kritarthsingh26/Leetcode/tree/master/1345-jump-game-iv) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/kritarthsingh26/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0657-robot-return-to-origin](https://github.com/kritarthsingh26/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kritarthsingh26/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
