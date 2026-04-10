@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kritarthsingh26/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0677-map-sum-pairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
+| [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kritarthsingh26/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/kritarthsingh26/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0629-k-inverse-pairs-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0629-k-inverse-pairs-array) |
+| [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
