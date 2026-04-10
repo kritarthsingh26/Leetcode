@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/kritarthsingh26/Leetcode/tree/master/1345-jump-game-iv) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/kritarthsingh26/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0629-k-inverse-pairs-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0464-can-i-win](https://github.com/kritarthsingh26/Leetcode/tree/master/0464-can-i-win) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kritarthsingh26/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Depth-First Search
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -278,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/kritarthsingh26/Leetcode/tree/master/0464-can-i-win) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 <!---LeetCode Topics End-->
