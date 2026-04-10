@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kritarthsingh26/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0677-map-sum-pairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
+| [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kritarthsingh26/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/kritarthsingh26/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kritarthsingh26/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Interactive
 |  |
@@ -260,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
