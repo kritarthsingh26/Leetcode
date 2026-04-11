@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0402-remove-k-digits](https://github.com/kritarthsingh26/Leetcode/tree/master/0402-remove-k-digits) |
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/kritarthsingh26/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0657-robot-return-to-origin](https://github.com/kritarthsingh26/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/kritarthsingh26/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kritarthsingh26/Leetcode/tree/master/0402-remove-k-digits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sliding Window
 |  |
@@ -270,11 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kritarthsingh26/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kritarthsingh26/Leetcode/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
