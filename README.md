@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kritarthsingh26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Counting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritarthsingh26/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kritarthsingh26/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3713-longest-balanced-substring-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3713-longest-balanced-substring-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
