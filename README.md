@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kritarthsingh26/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0464-can-i-win](https://github.com/kritarthsingh26/Leetcode/tree/master/0464-can-i-win) |
+| [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kritarthsingh26/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kritarthsingh26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/kritarthsingh26/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0629-k-inverse-pairs-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0629-k-inverse-pairs-array) |
+| [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
 | [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritarthsingh26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kritarthsingh26/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
