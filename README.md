@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/kritarthsingh26/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kritarthsingh26/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0464-can-i-win](https://github.com/kritarthsingh26/Leetcode/tree/master/0464-can-i-win) |
 | [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0464-can-i-win](https://github.com/kritarthsingh26/Leetcode/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/kritarthsingh26/Leetcode/tree/master/0464-can-i-win) |
 ## Game Theory
 |  |
