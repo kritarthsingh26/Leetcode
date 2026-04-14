@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kritarthsingh26/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/kritarthsingh26/Leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kritarthsingh26/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/kritarthsingh26/Leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kritarthsingh26/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
