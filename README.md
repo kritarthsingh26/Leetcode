@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/kritarthsingh26/Leetcode/tree/master/0228-summary-ranges) |
+| [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/kritarthsingh26/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kritarthsingh26/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
