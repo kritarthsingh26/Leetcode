@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
+| [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kritarthsingh26/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kritarthsingh26/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
+| [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0466-count-the-repetitions](https://github.com/kritarthsingh26/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
