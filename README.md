@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kritarthsingh26/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/kritarthsingh26/Leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3488-closest-equal-element-queries](https://github.com/kritarthsingh26/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Stack
 |  |
 | ------- |
