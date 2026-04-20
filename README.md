@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0838-push-dominoes](https://github.com/kritarthsingh26/Leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/kritarthsingh26/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kritarthsingh26/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Stack
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kritarthsingh26/Leetcode/tree/master/0086-partition-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kritarthsingh26/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
