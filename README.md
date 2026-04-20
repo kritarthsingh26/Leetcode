@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/kritarthsingh26/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kritarthsingh26/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/kritarthsingh26/Leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kritarthsingh26/Leetcode/tree/master/0402-remove-k-digits) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kritarthsingh26/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
