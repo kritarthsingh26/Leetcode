@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/kritarthsingh26/Leetcode/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kritarthsingh26/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kritarthsingh26/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kritarthsingh26/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/kritarthsingh26/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Search Tree
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kritarthsingh26/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
 | ------- |
