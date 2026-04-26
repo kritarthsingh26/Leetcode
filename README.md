@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kritarthsingh26/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kritarthsingh26/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/kritarthsingh26/Leetcode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/kritarthsingh26/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kritarthsingh26/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritarthsingh26/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/kritarthsingh26/Leetcode/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0306-additive-number](https://github.com/kritarthsingh26/Leetcode/tree/master/0306-additive-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
