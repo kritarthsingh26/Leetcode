@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kritarthsingh26/Leetcode/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [2906-construct-product-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Database
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0677-map-sum-pairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0677-map-sum-pairs) |
 ## Trie
 |  |
