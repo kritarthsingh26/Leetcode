@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kritarthsingh26/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kritarthsingh26/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2928-distribute-candies-among-children-i](https://github.com/kritarthsingh26/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kritarthsingh26/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kritarthsingh26/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kritarthsingh26/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/kritarthsingh26/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2928-distribute-candies-among-children-i](https://github.com/kritarthsingh26/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kritarthsingh26/Leetcode/tree/master/0062-unique-paths) |
+| [2928-distribute-candies-among-children-i](https://github.com/kritarthsingh26/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 ## Topological Sort
 |  |
 | ------- |
