@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/kritarthsingh26/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/kritarthsingh26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kritarthsingh26/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/kritarthsingh26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kritarthsingh26/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kritarthsingh26/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
