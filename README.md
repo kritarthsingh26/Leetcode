@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritarthsingh26/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kritarthsingh26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/kritarthsingh26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kritarthsingh26/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kritarthsingh26/Leetcode/tree/master/0162-find-peak-element) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritarthsingh26/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0130-surrounded-regions](https://github.com/kritarthsingh26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kritarthsingh26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
 | [0669-trim-a-binary-search-tree](https://github.com/kritarthsingh26/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kritarthsingh26/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kritarthsingh26/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/kritarthsingh26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/kritarthsingh26/Leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kritarthsingh26/Leetcode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/kritarthsingh26/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kritarthsingh26/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
