@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/kritarthsingh26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0966-vowel-spellchecker](https://github.com/kritarthsingh26/Leetcode/tree/master/0966-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kritarthsingh26/Leetcode/tree/master/0242-valid-anagram) |
 | [0677-map-sum-pairs](https://github.com/kritarthsingh26/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
+| [0904-fruit-into-baskets](https://github.com/kritarthsingh26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0966-vowel-spellchecker](https://github.com/kritarthsingh26/Leetcode/tree/master/0966-vowel-spellchecker) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/kritarthsingh26/Leetcode/tree/master/1345-jump-game-iv) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritarthsingh26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/kritarthsingh26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kritarthsingh26/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
