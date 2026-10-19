@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kritarthsingh26/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kritarthsingh26/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kritarthsingh26/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kritarthsingh26/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kritarthsingh26/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2906-construct-product-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Database
 |  |
