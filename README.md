@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kritarthsingh26/Leetcode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/kritarthsingh26/Leetcode/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/kritarthsingh26/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/kritarthsingh26/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/kritarthsingh26/Leetcode/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
