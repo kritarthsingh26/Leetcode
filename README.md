@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/kritarthsingh26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0966-vowel-spellchecker](https://github.com/kritarthsingh26/Leetcode/tree/master/0966-vowel-spellchecker) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/kritarthsingh26/Leetcode/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/kritarthsingh26/Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-unique-number-of-occurrences](https://github.com/kritarthsingh26/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kritarthsingh26/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/kritarthsingh26/Leetcode/tree/master/0475-heaters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kritarthsingh26/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kritarthsingh26/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/kritarthsingh26/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kritarthsingh26/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritarthsingh26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0837-new-21-game](https://github.com/kritarthsingh26/Leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/kritarthsingh26/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/kritarthsingh26/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kritarthsingh26/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kritarthsingh26/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kritarthsingh26/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritarthsingh26/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/kritarthsingh26/Leetcode/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2906-construct-product-matrix](https://github.com/kritarthsingh26/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Database
